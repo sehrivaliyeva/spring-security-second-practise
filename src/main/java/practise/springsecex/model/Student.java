@@ -1,4 +1,4 @@
-package practise.springsecex;
+package practise.springsecex.model;
 
 public class Student {
     private int id;

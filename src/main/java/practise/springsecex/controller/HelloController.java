@@ -1,4 +1,4 @@
-package practise.springsecex;
+package practise.springsecex.controller;
 
 import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.web.bind.annotation.GetMapping;
